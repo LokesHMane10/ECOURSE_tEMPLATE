@@ -13,4 +13,4 @@ Currently, two official plugins are available:
 
 # To execute the UI, enter the command "npm run dev" on your terminal.
 
-# To preview in mobile, run the command "npm run host".
+# To see preview in mobile, run the command "npm run host".
