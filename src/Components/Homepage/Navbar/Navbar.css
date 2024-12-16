@@ -1,0 +1,68 @@
+/* Centering the navbar */
+.navbar {
+  display: flex;
+  justify-content: center;
+}
+
+.navbar-nav {
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  width: 100%;
+  padding-left: 28rem;
+}
+
+.nav-item {
+  margin: 0 10px;
+}
+
+.navbar-toggler {
+  border: none;
+  font-size: 1rem;
+}
+
+.navbar-toggler:focus,
+.btn-close:focus {
+  box-shadow: none;
+  outline: none;
+}
+
+.nav-link {
+  color: rgb(105, 101, 101);
+  font-weight: 500;
+}
+
+.nav-link.active {
+  font-weight: bold;
+  color: orange;
+}
+
+.nav-link:hover {
+  color: orange;
+  transform: scale(1.1);
+  transition: transform 0.9s ease;
+}
+
+.dropdown-menu {
+  background-color: rgb(233, 226, 226);
+}
+
+.join-now-bt {
+  margin-left: 10rem;
+  padding: 0rem 0.8rem;
+  border: 0;
+  background-color: orange;
+  color: white;
+  border-radius: 6px;
+  /* font-size: 10px; */
+  height: 1.7rem;
+}
+
+.navbar a {
+  text-decoration: none;
+}
+
+.nav-link.active {
+  color: orange !important; /* Set active link color to orange */
+  font-weight: bold; /* Optional: make the active link bold */
+}

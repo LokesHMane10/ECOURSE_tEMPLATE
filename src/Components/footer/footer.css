@@ -1,0 +1,94 @@
+footer {
+  color: white;
+  background-color: black;
+  border-top: 4px solid yellow;
+}
+
+.main-footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 3rem;
+}
+
+.get-in-touch {
+  display: flex;
+  flex-direction: column;
+  /* margin-right: 8rem; */
+}
+
+.color {
+  color: orange;
+}
+
+.f-heading {
+  margin-bottom: 1.4rem;
+  text-align: center;
+}
+
+.news-info {
+  display: block;
+  max-width: 400px;
+}
+
+.g-margin {
+  margin-bottom: 10px;
+}
+
+.web-margin {
+  margin-bottom: 5px;
+  margin-left: 11px;
+}
+
+.search-bar {
+  display: flex;
+  margin-top: 20px;
+  gap: 0px;
+}
+
+.search-bar input {
+  width: 20rem;
+  height: 2.5rem;
+  border: 0;
+  padding: 1rem;
+}
+
+.search-bar button {
+  padding: 9px;
+  background-color: orange;
+  border: none;
+  cursor: pointer;
+  color: white;
+  width: 5rem;
+  height: 2.5rem;
+  border: 0px;
+}
+
+.search-bar button i {
+  font-size: 17px;
+}
+
+.line-break {
+  border: 0.1px solid rgb(226, 233, 106);
+  margin: 0 1rem;
+}
+
+.all-rights {
+  /* display: flex;
+  flex-direction: row; */
+  padding: 1rem;
+  margin-left: 3rem;
+}
+
+.terms {
+  /* display: flex; */
+  justify-content: flex-end;
+  margin-left: 49rem;
+}
+
+.terms span {
+  margin-right: 20px;
+}
+
+.social-media a {
+  margin-right: 3px;
+}

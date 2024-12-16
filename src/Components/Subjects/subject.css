@@ -1,0 +1,47 @@
+.subject {
+  margin-top: 8rem;
+  text-align: center;
+  color: orange;
+  letter-spacing: 10px;
+}
+
+.explore-sub {
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+.subject-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin-left: 13%;
+  margin-right: 13%;
+}
+.image {
+  position: relative;
+  margin-right: 2rem;
+  margin-bottom: 2rem;
+}
+
+.subject-img {
+  display: block;
+  width: 200px;
+  height: 120px;
+  border-radius: 10px;
+}
+
+.subject-content {
+  position: absolute;
+  top: 16%;
+  left: 18%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: aliceblue;
+}
+
+.sub-desc {
+  margin-bottom: 4px;
+}

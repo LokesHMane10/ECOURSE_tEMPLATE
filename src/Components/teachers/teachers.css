@@ -1,0 +1,54 @@
+.teacher {
+  margin-top: 4rem;
+  text-align: center;
+  color: orange;
+  letter-spacing: 10px;
+}
+
+.meet-teacher {
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+  text-align: center;
+}
+
+.teacher-div {
+  /* border: 1px solid black; */
+  width: 14rem;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+  background-color: rgb(247, 243, 243);
+}
+
+.teacher-img {
+  height: 12rem;
+  width: 14rem;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 0;
+}
+
+.t-margin {
+  margin-bottom: 1rem;
+}
+
+.main-t-div {
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 13%;
+  margin-right: 13%;
+  flex-wrap: wrap;
+}
+
+.vacancy {
+  display: flex;
+  flex-direction: column;
+  /* padding: 1rem 1rem 0; */
+  text-align: center;
+}
+
+.t-description {
+  padding: 1rem;
+}
+
+.t-margin {
+  margin-bottom: 0.7rem;
+}

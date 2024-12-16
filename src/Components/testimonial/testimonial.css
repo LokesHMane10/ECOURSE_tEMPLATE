@@ -1,0 +1,50 @@
+.testimonial {
+  margin-top: 6rem;
+  text-align: center;
+  color: orange;
+  letter-spacing: 10px;
+}
+
+.t-heading {
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+.t-emoji i {
+  height: 50px;
+  width: 50px;
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  font-size: 50px;
+  color: orange;
+}
+
+.t-para {
+  text-align: center;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.t-image {
+  height: 90px;
+  width: 90px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  margin-top: 2rem;
+}
+
+.c-info {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.c-name {
+  text-align: center;
+  margin-bottom: 3px;
+}

@@ -1,0 +1,49 @@
+.subject {
+  margin-top: 5rem;
+  text-align: center;
+  color: orange;
+  letter-spacing: 10px;
+}
+
+.explore-sub {
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+.subject-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin-left: 13%;
+  margin-right: 13%;
+}
+.image {
+  position: relative;
+  margin-right: 2rem;
+  margin-bottom: 2rem;
+}
+
+.subject-img {
+  display: block;
+  width: 18rem;
+  height: 18rem;
+  border-radius: 10px;
+}
+
+.subject-content {
+  position: absolute;
+  top: 63%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+  color: aliceblue;
+  text-align: left;
+  padding: 1rem;
+  font-size: large;
+}
+
+.sub-desc {
+  margin-bottom: 7px;
+}

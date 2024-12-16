@@ -1,0 +1,40 @@
+.main-div {
+  align-items: center;
+  display: flex;
+  /* justify-content: space-evenly; */
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: "Roboto", sans-serif;
+}
+
+.main-div img {
+  width: 350px;
+  height: 300px;
+  margin-left: 4rem;
+  border-radius: 10px;
+}
+
+.main-about {
+  margin-left: 2rem;
+  width: 40%;
+}
+
+.aboutus {
+  font-size: 16px;
+  color: orange;
+}
+
+.innovative {
+  word-spacing: 1.9px;
+}
+
+.about-desc button {
+  all: unset;
+  margin-top: 3%;
+  padding: 4px 12px;
+  border-radius: 10px;
+  background-color: orange;
+  color: white;
+  font-weight: bolde;
+}
