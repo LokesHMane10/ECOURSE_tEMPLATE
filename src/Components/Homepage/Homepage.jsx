@@ -5,7 +5,7 @@ import Navbar from "./Navbar/Navbar";
 // import ImageSlider from "../imageslider/ImageSlider";
 
 import Topnav from "./top-nav/Topnav";
-import { countries } from "../Carousel/Data";
+import { course_img } from "../Carousel/Data";
 import Carousel from "../Carousel/Carousel";
 
 const Homepage = () => {
@@ -13,7 +13,7 @@ const Homepage = () => {
     <>
       <Topnav />
       <Navbar />
-      <Carousel images={countries} />
+      <Carousel images={course_img} />
       <Footer />
     </>
   );

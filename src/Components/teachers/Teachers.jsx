@@ -6,29 +6,30 @@ const Teachers = () => {
     {
       id: 1,
       imgSrc:
-        "https://static.valorantstats.xyz/agent-headshots/yoru-headshot.png",
-      name: "Yoru",
-      occupation: "Duelist",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMtb5QaQwe3ddFufEWNmhpZenv3t1gjA0vvQ&s",
+      name: "Franko Baresi",
+      occupation: "Web Designer",
     },
     {
       id: 2,
-      imgSrc: "https://pbs.twimg.com/media/EWI5obdWkAEGI_E.jpg:large",
-      name: "jett",
-      occupation: "Duelist",
+      imgSrc:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMtb5QaQwe3ddFufEWNmhpZenv3t1gjA0vvQ&s",
+      name: "Carles Puol",
+      occupation: "Web Designer",
     },
     {
       id: 3,
       imgSrc:
-        " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbzic3GP3InGX-itRNlaayB1jWcVpz57tE1w&s",
-      name: "Reyna",
-      occupation: "Duelist",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMtb5QaQwe3ddFufEWNmhpZenv3t1gjA0vvQ&s",
+      name: "Paolo Maldini",
+      occupation: "Web Designer",
     },
     {
       id: 4,
       imgSrc:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMtb5QaQwe3ddFufEWNmhpZenv3t1gjA0vvQ&s",
-      name: "ISO",
-      occupation: "Duelist",
+      name: "Japp Stam",
+      occupation: "Web Designer",
     },
   ];
   return (
