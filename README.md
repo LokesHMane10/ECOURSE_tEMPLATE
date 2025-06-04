@@ -1,19 +1,19 @@
-# React + Vite
+# 🎓 eCourse Template - Homepage (Frontend)(https://ecoursetemplate.netlify.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a homepage for an eCourse platform. The template is designed to showcase online courses, instructors, and platform features with a modern and engaging user interface. Built using React, HTML, CSS, and JavaScript.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🧑‍🏫 **Instructor Highlights** – Showcase top-rated educators
+- 📚 **Courses Section** – Display available or featured courses
+- ✨ **Modern UI** – Clean, intuitive, and user-friendly interface
+- ⚙️ **Component-Based Architecture** – Reusable and scalable React components
 
-<h4>
-  Install npm dependencies.
+## 🛠 Tech Stack
 
-Enter the command "npm install" in your working directory terminal.
+- **React.js**
+- **HTML5**
+- **CSS3** *(Bootstrap)*
+- **JavaScript (ES6+)**
 
-Enter the command "npm run dev" on your terminal, to see preview on desktop.
-
-To see preview in mobile, run the command "npm run host".
-
-</h4>
+ 
